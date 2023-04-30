@@ -6,14 +6,14 @@ See[Demo](링크)
 
 <a href="https://www.google.com/">Demo</a>
 
-##Documentaion
+## Documentaion
 
-##Installation
+## Installation
 
-###How To Start
+### How To Start
 
-###Dependency
+### Dependency
 
-###Features
+### Features
 
-##vi로작성하는 방법
+## vi로작성하는 방법
